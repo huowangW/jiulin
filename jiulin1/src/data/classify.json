@@ -1,0 +1,97 @@
+[
+
+	[{
+			"id": "01",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		},
+		{
+			"id": "02",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		},
+		{
+			"id": "03",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		},
+		{
+			"id": "04",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		},
+		{
+			"id": "05",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		},
+		{
+			"id": "06",
+			"imgUrl": "require('../../images/home/home_like01.png')",
+			"text": "LED现代灯"
+		}
+	],
+	[{
+			"id": "07",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		},
+		{
+			"id": "08",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		},
+		{
+			"id": "09",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		},
+		{
+			"id": "10",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		},
+		{
+			"id": "11",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		},
+		{
+			"id": "12",
+			"imgUrl": "require('../../images/home/home_hot04.png')",
+			"text": "LED照明灯"
+		}
+	],
+	[{
+			"id": "13",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		},
+		{
+			"id": "14",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		},
+		{
+			"id": "15",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		},
+		{
+			"id": "16",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		},
+		{
+			"id": "17",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		},
+		{
+			"id": "18",
+			"imgUrl": "require('../../images/home/home_hot03.png')",
+			"text": "LED壁灯"
+		}
+	]
+
+]
